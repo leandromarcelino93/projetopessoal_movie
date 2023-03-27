@@ -1,16 +1,15 @@
-# projetopessoal_movie
+## Apresentação 
 
-A new Flutter project.
+Aplicativo que consome API do The Movie Database e exibe os filmes que alcançaram as maiores notas até hoje. (Ainda em fase de construção)
 
-## Getting Started
+## Demonstração 
 
-This project is a starting point for a Flutter application.
+Demonstração: 
 
-A few resources to get you started if this is your first Flutter project:
+![demonstracao_movie_app](https://user-images.githubusercontent.com/109693767/228049172-08915863-37b4-4ada-8323-37ad227f186c.gif)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## :hammer_and_wrench:	Como rodar o projeto? 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Preferencialmente, tenha uma IDE (Integrated Development Environment - Ambiente de desenvolvimento integrado) instalada em sua máquina, que pode ser Android Studio, IntelliJ ou um editor como o VSCode. 
+* Ter instalado a SDK do Flutter na versão 3.0.0
+* Por questões de segurança, para utilização deste projeto se faz necessário a criação do seu próprio cadastro no site do TMDB para ter acesso tanto a chave quanto ao Token de Leitura.
